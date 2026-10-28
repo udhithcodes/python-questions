@@ -2,3 +2,6 @@
 # ```
 # print("hello","world","earth")
 # ```
+
+# out put 
+# hello world earth

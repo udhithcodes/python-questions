@@ -2,3 +2,11 @@
 # ```
 # LINE-1
 # print(a*2)
+
+x = input()
+a = x
+print(a*2)
+
+# out put 
+# input : GOKUL
+# GOKULGOKUL

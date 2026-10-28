@@ -1,7 +1,11 @@
 # 1. what wil be the value of n at the end of execution
 #     ```
-#     n="Raja"
-#     print("Which placre are you in?")
-#     n=input()
-#     print("Hello",n,"How is the weather in" ,n )
+n="Raja"
+print("Which placre are you in?")
+n=input()
+print("Hello",n,"How is the weather in" ,n ) 
 #     ```
+
+# out put 
+# Which placre are you in?
+# "Hello",sathy,"How is the weather in" ,sathy 

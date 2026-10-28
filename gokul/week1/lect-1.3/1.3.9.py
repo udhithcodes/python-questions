@@ -3,3 +3,6 @@
 # it's sunday
 # he is "The President"
 # ```
+
+print("it's sunday")
+print('he is "The President"')
