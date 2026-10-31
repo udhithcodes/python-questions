@@ -1,1 +1,6 @@
-# Find the last digit of 7 power 35
+# Find the last digit of 7 power 35 
+
+print(7**35)
+# 378818692265664781682717625943
+print(378818692265664781682717625943 % 10)
+3

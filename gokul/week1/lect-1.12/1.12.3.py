@@ -1,7 +1,7 @@
 # 1. what will be the output?
 #     ```
-#     print('apple'>'one')
-#     print('four'<'ten')
-#     print('ab'<'az')
-#     print('abcde'<'abcdef')
+print('apple'>'one') #false
+print('four'<'ten') # true
+print('ab'<'az') # true
+print('abcde'<'abcdef') # true
 #     ```

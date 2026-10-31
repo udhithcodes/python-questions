@@ -14,19 +14,19 @@ k="0.0"
 l=False
 m=True
 
-    
-print(bool(a))
-print(bool(b))
-print(bool(c))
-print(bool(d))
-print(bool(e))
-print(bool(f))
-print(bool(g))
-print(bool(h))
-print(bool(i))
-print(bool(j))
-print(bool(k))
-print(bool(l))
-print(bool(m))
+
+print(bool(a)) # True 
+print(bool(b)) # True 
+print(bool(c)) # False
+print(bool(d)) # True 
+print(bool(e)) # True 
+print(bool(f)) # False
+print(bool(g)) # True 
+print(bool(h)) # True 
+print(bool(i)) # False 
+print(bool(j)) # True 
+print(bool(k)) # True 
+print(bool(l)) # False
+print(bool(m)) # True 
 
 

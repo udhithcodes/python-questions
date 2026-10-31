@@ -1,18 +1,32 @@
 # 1. what will the output of the below code be?
 #     ```
-#     print(7%3)
-#     print(10%2)
-#     print(11%2)
-#     print(13%4)
-#     print(15%4)
-#     print(19%10)
-#     print(4%8)
-#     print(21%9)
-#     print(23%7)
-#     print(50%7)
-#     print(10%23)
-#     print(5%26)
-#     print(13%20)
-#     print(12%15)
-
+print(7%3) 
+print(10%2)
+print(11%2)
+print(13%4)
+print(15%4)
+print(19%10)
+print(4%8)
+print(21%9)
+print(23%7)
+print(50%7)
+print(10%23)
+print(5%26)
+print(13%20)
+print(12%15)
 #     ```
+
+# op 1
+# 0
+# 1
+# 1
+# 3
+# 9
+# 4
+# 3
+# 2
+# 1
+# 10
+# 5
+# 13
+# 12

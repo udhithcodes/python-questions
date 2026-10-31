@@ -1,1 +1,8 @@
-# Accept the score of a student in an exam as input. Print True if the student has scored between 90 and 100 , both endpoints included, and False otherwise. You can assume that the score is an integer.
+# Accept the score of a student in an exam as input. 
+# Print True if the student has scored between 90 and 100 , both endpoints included, and False otherwise. 
+# You can assume that the score is an integer.
+
+score = int(input("Enter the score : "))
+x = score >=90
+y = score <=100
+print(x == y)

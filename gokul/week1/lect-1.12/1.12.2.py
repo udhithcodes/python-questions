@@ -1,8 +1,8 @@
 # 1. what will be the output?
 #     ```
-#     s='india'
-#     print(s=='india')
-#     print(s=='India')
-#     print(s=="India")
-#     print(s=="india")
+s='india'
+print(s=='india') # true
+print(s=='India') # false
+print(s=="India") # false
+print(s=="india") # true
 #     ```
