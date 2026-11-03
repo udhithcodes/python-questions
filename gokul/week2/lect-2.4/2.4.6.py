@@ -2,5 +2,5 @@
 
 '''
 and=24
-print(and+6)
+print(and+6) # error
 '''

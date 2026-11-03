@@ -1,6 +1,6 @@
 # predict the output
 
 x=10
-print(x)
+print(x) # 10
 del (x)
-print(x)
+print(x) # error

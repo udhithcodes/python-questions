@@ -1,6 +1,7 @@
 # check if all the  character in the string are digits
 x="123"
 y="abc123"
+print()
 
 
 # check if all the character in the string are alphabets

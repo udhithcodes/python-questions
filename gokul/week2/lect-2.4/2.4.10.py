@@ -1,4 +1,4 @@
 # what will be the output?
 
 x=y=z=10
-print(x,y,z)
+print(x,y,z) # 10 10 10

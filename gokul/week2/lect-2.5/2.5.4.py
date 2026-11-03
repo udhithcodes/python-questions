@@ -2,12 +2,12 @@
 
 x='This is a string'
 y="This is also a string"
-z='this
+z='''this
 is the 
-third line'
-a="this 
+third line'''
+a="""this 
 is 
-also a line"
+also a line"""
 print(x)
 print(y)
 print(z)
